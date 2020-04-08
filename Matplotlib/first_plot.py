@@ -1,3 +1,5 @@
+# Creating and customizing the plot
+
 from matplotlib import pyplot as plt
 
 # print(plt.style.available)
