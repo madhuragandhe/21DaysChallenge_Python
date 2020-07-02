@@ -51,7 +51,7 @@ dev_2 = Developer('Test', 'Employee', 60000, 'Java')
 
 mgr_1 = Manager('Pied', 'Piper', 90000, [dev_1])
 
-print(mgr_1.email)
+# print(mgr_1.email)
 
 mgr_1.add_emp(dev_2)
 mgr_1.remove_emp(dev_2)
