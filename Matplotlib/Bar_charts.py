@@ -3,7 +3,7 @@ import numpy as np
 
 # Vertical Bar plots
 '''
-plt.style.use('ggplot')
+plt.style.use('fivethirtyeight')
 dev_x=[25,26,27,28,29,30,31,32,33,34]
 x_indexes=np.arange(len(dev_x))
 width=0.25
